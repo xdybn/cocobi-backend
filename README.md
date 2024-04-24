@@ -1,7 +1,6 @@
 ![image](https://github.com/xdybn/cocobi-backend/assets/151630273/54fed51c-4258-4019-8d04-bbfbbf20871b)
+
 Cocobi 智能BI平台
-
-
 > 作者：[coconut](https://github.com/xdybn)
 
 ## 项目介绍 📢
