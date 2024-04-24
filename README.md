@@ -1,7 +1,7 @@
-Cat 智能BI平台
+![image](https://github.com/xdybn/cocobi-backend/assets/151630273/54fed51c-4258-4019-8d04-bbfbbf20871b)Cocobi 智能BI平台
 
 
-> 作者：🐈[coconut](https://github.com/xdybn)
+> 作者：[coconut](https://github.com/xdybn)
 
 ## 项目介绍 📢
 本项目是基于React+Spring Boot+RabbitMQ+AIGC的智能BI数据分析平台。
